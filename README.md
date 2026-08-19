@@ -1,1 +1,2 @@
-You are entering Tigger_Analytics script library.
+Personal library 
+daily use functions for data analysis.
