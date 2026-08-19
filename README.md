@@ -1,2 +1,1 @@
-Personal library 
-daily use functions for data analysis.
+Personal library: daily use functions for data analysis. Author: Guilherme Ulyssea Santos
